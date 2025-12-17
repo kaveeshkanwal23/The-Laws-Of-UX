@@ -38,4 +38,10 @@ Any design must be human-centered, i,e instead of forcing people to accept a des
 
 # Peak End Rule (IMP) 
 
+- People don't remember each and every step of the experience, rather the peak moment and the end moment create a lasting expression in the user's mind. We tend to focus on emotional peaks and the end stage. 
+
+- People recall negative moments more vividly than positive ones. 
+
+- Create & use journey maps to find out the emotional peak moments of the user. 
+
 - 
