@@ -44,4 +44,9 @@ Any design must be human-centered, i,e instead of forcing people to accept a des
 
 - Create & use journey maps to find out the emotional peak moments of the user. 
 
-- 
+- User jounery map will have the following: 
+User persona & it's user story. 
+Actions/Tasks done by the persona. 
+Emotional layer which captures the emotional peaks of the user at every stage. 
+Insights/opportunities describing the needs, desires and pain points of the persona. We can use direct quotes by the persona as well. 
+Each opportunity to be backed by a metric and it's ownership.
