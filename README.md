@@ -24,3 +24,18 @@ Any design must be human-centered, i,e instead of forcing people to accept a des
 - Progressively(step by step) introduce new feature so that users do not become overwhlemed.
 - The entire idea here is to reduce the mental strain of the user and give him a pleasurable experience while interacting with the UI.
 - Make sure that we do not oversimplify too much leading to the point of abstraction. 
+
+# Miller's Law: 
+- A user can generally keep 7 (+-2) items in its working memory. 
+- Make sure to organize content into smaller chunks so that user can process, memorize and understand it. 
+- Chunking: Structuring content into visually distinct group with clear hierarchy so that it can be comprehended easily. 
+
+# Postel's Law
+- Be conservative what you show, be liberal in what you accept from the users. 
+- Be conservative in how much information you need the users to provide. 
+- Users want to feel they're in control. Unnecessary info required from the user must be avoided. 
+- A design must be open to extension without changing the whole design. One must only progressively add elemts to a design so that users do not get overwhelmed. 
+
+# Peak End Rule (IMP) 
+
+- 
