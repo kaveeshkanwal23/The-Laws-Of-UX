@@ -1,5 +1,5 @@
 # The-Laws-Of-UX
-Design better product &amp; services using the laws of UX as per human psychology. 
+Design better product &amp; services using the laws of UX as per human pschycology. 
 
 # Introduction
 Any design must be human-centered, i,e instead of forcing people to accept a design or an experience, we can use certain laws of human pschycology to design products to which humans are already adapted. Now, this does not mean that you cannot propose a radically different design, but that design must be extensively beta tested before a formal lauch to your larger customer base. But for most cases, it is good to stick to human-centered design.
@@ -40,7 +40,7 @@ Any design must be human-centered, i,e instead of forcing people to accept a des
 
 - People don't remember each and every step of the experience, rather the peak moment and the end moment create a lasting expression in the user's mind. We tend to focus on emotional peaks and the end stage. 
 
-- People recall negative moments more vividly than positive ones. 
+- People recall negative moments more vividly than positive ones.
 
 - Create & use journey maps to find out the emotional peak moments of the user. 
 
@@ -48,5 +48,15 @@ Any design must be human-centered, i,e instead of forcing people to accept a des
 User persona & it's user story. 
 Actions/Tasks done by the persona. 
 Emotional layer which captures the emotional peaks of the user at every stage. 
-Insights/opportunities describing the needs, desires and pain points of the persona. We can use direct quotes by the persona as well. 
+Insights/opportunities describing the needs, desires and pain points of the persona. We can use direct quotes by the persona as well.
 Each opportunity to be backed by a metric and it's ownership.
+![WhatsApp Image 2025-12-24 at 11 55 53](https://github.com/user-attachments/assets/40c6a58a-ee3b-4c7c-ba7a-d1e39deb2cd4)
+
+# Doherty Threshhold
+- UI response times are important for an optimal UX for the end user
+- A delay of < 100ms is generally not recognized by human eye.
+- Optimal delays are generally around 400ms. 
+- Any delay > 100 ms, we must show progress bar, blur-ups(small image placeholders tii the full image is loaded), skeleton screens(till the main content gets loaded), optimistic UI(UI showing progress along with some feedback) and many others. 
+- Delay of more than 1 sec tends to increase the cognitive load of the user and he may begin to think of other things. 
+- If delay more than 10 sec, it is very important to show the users the time remaining and some info/text of what the system is doing. 
+- Sometimes, delays are induced to build trust. For eg; a security checkup on say facebook too more time.
